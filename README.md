@@ -1,7 +1,7 @@
 # Searching Project
 
 - Made with Python
-- This is a Project of **Introduction to Artificial Intelligence**
+- This is the Project of **Introduction to Artificial Intelligence**
 - Includes BFS, DFS, UCS, GREEDY, ASTAR algorithms
 
 # Requirements
